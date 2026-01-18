@@ -1,11 +1,11 @@
-site_name: mkdocs_template
-site_description: A modern documentation template built with MkDocs Material.
-site_author: SHADIL A M
-site_url: https://shadil-rayyan.github.io/mkdocs_template/
+site_name: CSE Project & Seminar Roadmap
+site_description: The guide we wish we had when we were in 3rd year. A comprehensive roadmap for CSE students to ace their Mini Projects, Main Projects, and Seminars.
+site_author: CodeCompass Team
+site_url: https://codecompass.github.io/CSE-College-Project-Roadmap/
 
 # Repository
-repo_name: mkdocs_template
-repo_url: https://github.com/shadil-rayyan/mkdocs_template
+repo_name: CSE-College-Project-Roadmap
+repo_url: https://github.com/shadil-rayyan/CSE-College-Project-Roadmap
 edit_uri: edit/main/docs/
 
 theme:
@@ -144,3 +144,28 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde
+
+nav:
+  - Home: index.md
+  - 🛠️ Mini Project:
+    - Overview: mini-project/index.md
+    - Ideation & Topic Selection: mini-project/ideation.md
+    - Implementation Guide: mini-project/implementation.md
+    - Final Submission: mini-project/documentation.md
+  - 🚀 Main Project:
+    - Overview: main-project/index.md
+    - Phase 1 (Planning): main-project/phase-1.md
+    - Phase 2 (Execution): main-project/phase-2.md
+    - Final Report writing: main-project/final-report.md
+    - Viva Voce Preparedness: main-project/viva-voce.md
+  - 🎤 Technical Seminar:
+    - Overview: seminar/index.md
+    - Topic Selection: seminar/topic-selection.md
+    - Presentation & Report: seminar/presentation-tips.md
+  - 🍱 Team & Soft Skills:
+    - Building the Team: resources/team-dynamics.md
+  - 💡 Resources:
+    - Project Ideas: resources/project-ideas.md
+    - Scoring High - Tips: resources/scoring-tips.md
+    - Useful Templates: resources/templates.md
+    - Student Confessions: resources/confessions.md

@@ -1,47 +1,94 @@
-# MkDocs Material Template
+# 🎓 CSE College Project & Seminar Roadmap
 
-A high-performance, feature-rich template for MkDocs using the Material theme.
+<p align="center">
+  <em>The guide we wish we had when we were in 3rd year.</em>
+</p>
 
-## ✨ Features
+<p align="center">
+  <a href="https://codecompass.github.io/CSE-College-Project-Roadmap/"><img src="https://img.shields.io/badge/docs-Live-brightgreen.svg" alt="Documentation"></a>
+  <a href="https://github.com/shadil-rayyan/CSE-College-Project-Roadmap/stargazers"><img src="https://img.shields.io/github/stars/shadil-rayyan/CSE-College-Project-Roadmap?style=social" alt="Stars"></a>
+  <a href="https://github.com/shadil-rayyan/CSE-College-Project-Roadmap/network/members"><img src="https://img.shields.io/github/forks/shadil-rayyan/CSE-College-Project-Roadmap?style=social" alt="Forks"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></a>
+</p>
 
-- **Standard Plugins**: `minify`, `search`, `git-revision-date-localized`, `git-authors`, `tags`.
-- **Advanced Markdown**: Admonitions, Tabs, Mermaid diagrams, Math (Latex), Footnotes, Tasklists, Emojis, and more.
-- **Premium UX**: Instant loading, sticky navigation, "Back to Top" button, social links, and code copy button.
-- **CI/CD Ready**: GitHub Actions workflow included for automatic deployment to GitHub Pages.
-- **Reproducible**: `requirements.txt` included for easy setup.
+---
 
-## 🚀 Quick Start
+## 🤔 Who Is This For?
 
-1. **Clone/Use this template**.
-2. **Install dependencies**:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. **Start the dev server**:
-   ```bash
-   mkdocs serve
-   ```
-4. **Edit `mkdocs.yml`**: Update the `site_name`, `repo_url`, and other metadata.
+You're here because one of these is true:
+- You just got assigned a "Mini Project" and have no idea where to start.
+- Your final year project synopsis got rejected... again.
+- You're staring at a blank Word document titled `Final_Report_v1_FINAL_v2.docx`.
+- You're about to face your Viva and you're Googling "how to survive project viva."
 
-## 🌐 Deployment
+**We've all been there.** This roadmap was born from late nights, panicked submissions, and lessons learned the hard way. It's everything we wish someone had told us.
 
-This template is set up to deploy automatically via GitHub Actions.
+---
 
-1. **Push to `main`**: Any push to the `main` branch triggers the deployment workflow.
-2. **Configure GitHub Pages**:
-   - Go to your repository **Settings** > **Pages**.
-   - Under **Build and deployment** > **Source**, select **"Deploy from a branch"**.
-   - Select the **`gh-pages`** branch (created after the first successful action run) and the **`/(root)`** folder.
-   - Click **Save**.
+## 💡 What's Inside?
 
-## 📁 Structure
+This isn't another boring syllabus. It's a survival guide.
 
-- `docs/`: Markdown files and documentation source.
-- `mkdocs.yml`: Configuration file.
-- `.github/workflows/ci.yml`: GitHub Actions for automated deployment.
-- `requirements.txt`: Python dependencies.
-- `.gitignore`: Standard git exclusions.
+| Section | What You'll Learn |
+| :--- | :--- |
+| **[🛠️ Mini Project](./docs/mini-project/)** | How to pick a topic that isn't a "Library Management System," build it without crying, and write a report that doesn't get rejected. |
+| **[🚀 Main Project](./docs/main-project/)** | Surviving Phase 1 & 2, writing a 100-page thesis without losing your mind, and facing the External Viva like a pro. |
+| **[🎤 Seminar](./docs/seminar/)** | Choosing topics that impress, understanding "inner workings," and giving a presentation that doesn't put people to sleep. |
+| **[🍱 Team & Soft Skills](./docs/resources/team-dynamics.md)** | How to build a dream team (and avoid "The Ghost Teammate"). |
+| **[💡 Resources](./docs/resources/)** | Project ideas, scoring hacks, templates, and anonymous confessions from students who survived. |
 
-## 📄 License
+---
 
-This template is open-source and free to use.
+## 🔥 A Few Hard Truths
+
+Before you dive in, here's some unsolicited advice:
+
+> *"Your project guide has seen a hundred students before you. They've seen every mistake, every excuse. They won't change you. But if you don't show up, you will definitely lose marks."*
+
+> *"Don't pick a team based on who your friends are. Pick based on who actually works. You might carry them today, but the examiner will ask individual questions in the Viva."*
+
+> *"If your presentation has a mistake and the teacher points it out, fix it that evening and show them the next morning. That's how you earn extra points."*
+
+---
+
+## 🚀 Quick Start (For Contributors)
+
+Want to add your own tips, horror stories, or templates? We'd love that!
+
+```bash
+# Clone the repo
+git clone https://github.com/shadil-rayyan/CSE-College-Project-Roadmap.git
+cd CSE-College-Project-Roadmap
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run locally
+mkdocs serve
+```
+
+Then open `http://127.0.0.1:8000` and start exploring!
+
+---
+
+## 🤝 Contributing
+
+Got a story? A template that saved your life? A tip that helped you score an 'O' grade?
+
+**We want to hear it.** Check out our [CONTRIBUTING.md](CONTRIBUTING.md) to add your wisdom to this guide.
+
+---
+
+## ✍️ From the Authors
+
+We're not professors. We're not "experts." We're just a bunch of students (and recent grads) who went through the chaos of CSE projects and lived to tell the tale.
+
+This guide is our way of paying it forward. If it helps even one student avoid a last-minute panic attack, it was worth it.
+
+*If this helped you, consider giving it a ⭐ — it helps others find it!*
+
+---
+
+<p align="center">
+  Built with ❤️ and a lot of ☕ by the <a href="https://github.com/shadil-rayyan">CodeCompass</a> community.
+</p>
