@@ -1,13 +1,13 @@
-# 🎓 CSE College Project & Seminar Roadmap
+# 🎓 College Project & Seminar Roadmap
 
 <p align="center">
   <em>The guide we wish we had when we were in 3rd year.</em>
 </p>
 
 <p align="center">
-  <a href="https://codecompass.github.io/CSE-College-Project-Roadmap/"><img src="https://img.shields.io/badge/docs-Live-brightgreen.svg" alt="Documentation"></a>
-  <a href="https://github.com/shadil-rayyan/CSE-College-Project-Roadmap/stargazers"><img src="https://img.shields.io/github/stars/shadil-rayyan/CSE-College-Project-Roadmap?style=social" alt="Stars"></a>
-  <a href="https://github.com/shadil-rayyan/CSE-College-Project-Roadmap/network/members"><img src="https://img.shields.io/github/forks/shadil-rayyan/CSE-College-Project-Roadmap?style=social" alt="Forks"></a>
+  <a href="https://CodeCompasss.github.io/College-Project-and-Seminar-Roadmap/"><img src="https://img.shields.io/badge/docs-Live-brightgreen.svg" alt="Documentation"></a>
+  <a href="https://github.com/CodeCompasss/College-Project-and-Seminar-Roadmap/stargazers"><img src="https://img.shields.io/github/stars/CodeCompasss/College-Project-and-Seminar-Roadmap?style=social" alt="Stars"></a>
+  <a href="https://github.com/CodeCompasss/College-Project-and-Seminar-Roadmap/network/members"><img src="https://img.shields.io/github/forks/CodeCompasss/College-Project-and-Seminar-Roadmap?style=social" alt="Forks"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></a>
 </p>
 
@@ -57,8 +57,8 @@ Want to add your own tips, horror stories, or templates? We'd love that!
 
 ```bash
 # Clone the repo
-git clone https://github.com/shadil-rayyan/CSE-College-Project-Roadmap.git
-cd CSE-College-Project-Roadmap
+git clone https://github.com/CodeCompasss/College-Project-and-Seminar-Roadmap.git
+cd College-Project-and-Seminar-Roadmap
 
 # Install dependencies
 pip install -r requirements.txt
@@ -90,5 +90,5 @@ This guide is our way of paying it forward. If it helps even one student avoid a
 ---
 
 <p align="center">
-  Built with ❤️ and a lot of ☕ by the <a href="https://github.com/shadil-rayyan">CodeCompass</a> community.
+  Built with ❤️ and a lot of ☕ by the <a href="https://github.com/CodeCompasss">CodeCompass</a> community.
 </p>

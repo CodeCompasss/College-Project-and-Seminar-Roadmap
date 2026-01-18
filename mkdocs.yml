@@ -1,11 +1,11 @@
-site_name: CSE Project & Seminar Roadmap
-site_description: The guide we wish we had when we were in 3rd year. A comprehensive roadmap for CSE students to ace their Mini Projects, Main Projects, and Seminars.
+site_name: College Project & Seminar Roadmap
+site_description: The guide we wish we had when we were in 3rd year. A comprehensive roadmap for students to ace their Mini Projects, Main Projects, and Seminars.
 site_author: CodeCompass Team
-site_url: https://codecompass.github.io/CSE-College-Project-Roadmap/
+site_url: https://CodeCompasss.github.io/College-Project-and-Seminar-Roadmap/
 
 # Repository
-repo_name: CSE-College-Project-Roadmap
-repo_url: https://github.com/shadil-rayyan/CSE-College-Project-Roadmap
+repo_name: College-Project-and-Seminar-Roadmap
+repo_url: https://github.com/CodeCompasss/College-Project-and-Seminar-Roadmap
 edit_uri: edit/main/docs/
 
 theme:

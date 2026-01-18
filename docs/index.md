@@ -1,4 +1,4 @@
-# 🎓 CSE College Project & Seminar Roadmap
+# 🎓 College Project & Seminar Roadmap
 
 <p align="center">
   <strong><em>The guide we wish we had when we were in 3rd year.</em></strong>
